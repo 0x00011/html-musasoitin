@@ -1,22 +1,22 @@
 :root {
-	--primary-background: #1c1f3e;
-	--secondary-background: #0f112d;
-	--search-background: #232450;
-	--recent-background: #22244d;
-	--dark-primary: #5d15b9;
-	--light-primary: #e159f7;
-	--focus-color: #c747ff;
+	--primary-background: #121417;
+	--secondary-background: #17191c;
+	--search-background: #17191c;
+	--recent-background: #17191c;
+	--dark-primary: #ff6146;
+	--light-primary: #ff6146;
+	--focus-color: #ff4f30;
 	
 	--text-primary: #fefefe;
 	--text-secondary: #f8f5f9; 
 	--text-inactive: #7b7c96;
 
 	--button-inactive: #555876;
-	--button-active: #bd45ea;
+	--button-active: #ff6146;
 	--button-hover: #cacaca;
 
-	--border-color: #222c89;
-	--secondary-border-color: var(--primary-background);
+	--border-color: #ff6146;
+	--secondary-border-color: #ff614685;
 }
 
 
@@ -196,7 +196,7 @@ html, body {
 	margin: 20px;
 	padding: 10px;
 	border-radius: 7.5px;
-	background-color: #1c1f3e93;
+	background-color: #ff614633;
 	backdrop-filter: saturate(180%) blur(20px);
 	color: var(--text-primary);
 	font-size: 0.9rem;
@@ -207,7 +207,7 @@ html, body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-color: #2a38bc93;
+	background-color: #ff614693;
 	backdrop-filter: saturate(180%) blur(20px);
 	border-radius: 5px;
 	font-size: 0.8rem;
