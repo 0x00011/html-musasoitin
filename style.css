@@ -177,15 +177,15 @@ html, body {
 }
 
 .recommendation:nth-child(1) {
-	background-image: url('/assets/banner-1.webp');
+	background-image: url('./assets/banner-1.webp');
 }
 
 .recommendation:nth-child(2) {
-	background-image: url('/assets/banner-2.webp');
+	background-image: url('./assets/banner-2.webp');
 }
 
 .recommendation:nth-child(3) {
-	background-image: url('/assets/banner-3.webp');
+	background-image: url('./assets/banner-3.webp');
 }
 
 .recommendation .info {
